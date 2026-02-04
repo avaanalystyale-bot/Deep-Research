@@ -4,7 +4,14 @@
 Deep-Research is an industrial-grade autonomous intelligence engine designed for deep-dive market synthesis. Moving beyond standard RAG patterns, the system implements a Multi-Agent Orchestration layer that mirrors the cognitive process of expert analysts. By leveraging an asynchronous OODA-loop (Observe-Orient-Decide-Act), it transforms raw, multi-source data into structured, high-fidelity research assets.
 
 ---
+## 💡 Motivation & Inspiration
+The genesis of Deep-Research stems from my professional background in Management Consulting and Financial IPO sectors. During my previous internships, I experienced firsthand that Desk Research—the meticulous process of gathering, verifying, and synthesizing multi-source intelligence—is a critical yet time-consuming bottleneck in high-stakes decision-making.
 
+I recognized that the emergence of Large Language Models (LLMs) presents a transformative opportunity to improve these workflows. Since my prior professional experiences were centered in the Chinese financial and consulting sectors, the current implementation is for the complex regulatory and industrial landscape of the Chinese market.
+
+While the data sources are localized to specific industrial landscapes, the underlying architecture is entirely **market-agnostic**. The multi-agent orchestration framework, including RAG, data analysis, self-reflection and etc, is engineered to be seamlessly adapted for US industrial research, global market synthesis, or any other industrial context.
+
+---
 >## 💎 Core Value Proposition: Optimizing Industrial Research via Multi-Agent Automation
 
 >### 1. Exponential Efficiency Gains
