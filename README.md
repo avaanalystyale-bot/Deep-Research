@@ -7,7 +7,7 @@ Deep-Research is an industrial-grade autonomous intelligence engine designed for
 ## 💡 Motivation & Inspiration
 The genesis of Deep-Research stems from my professional background in Management Consulting and Financial IPO sectors. During my previous internships, I experienced firsthand that Desk Research—the meticulous process of gathering, verifying, and synthesizing multi-source intelligence—is a critical yet time-consuming bottleneck in high-stakes decision-making.
 
-I recognized that the emergence of Large Language Models (LLMs) presents a transformative opportunity to improve these workflows. Since my prior professional experiences were centered in the Chinese financial and consulting sectors, the current implementation is for the complex regulatory and industrial landscape of the Chinese market.
+I recognized that the emergence of Large Language Models (LLMs) presents a transformative opportunity to improve these workflows. Since my prior professional consulting/financial IPO experiences were centered in the Chinese financial and consulting sectors, the current implementation is for the complex regulatory and industrial landscape of the Chinese market.
 
 While the data sources are localized to specific industrial landscapes, the underlying architecture is entirely **market-agnostic**. The multi-agent orchestration framework, including RAG, data analysis, self-reflection and etc, is engineered to be seamlessly adapted for US industrial research, global market synthesis, or any other industrial context.
 
